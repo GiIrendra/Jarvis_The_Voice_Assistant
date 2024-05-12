@@ -1,9 +1,12 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 # Overview
 ##### Introducing Jarvis, your very own voice assistant right in your pocket! Built using React Native for Android, Jarvis utilizes the power of Gemini AI API to deliver a seamless and intuitive experience. From answering questions to providing assistance, Jarvis is your go-to companion for all your needs. Download the app now and step into the future of AI-driven personal assistants!
-<img width="190" alt="Screenshot 2023-09-18 at 12 42 09 AM" src="https://github.com/GiIrendra/Jarvis_The_Voice_Assistant/assets/96494472/98d53080-20dc-4538-b6cd-edf7c0f05032">
+
+<img width="190"  alt="Screenshot 2023-09-18 at 12 42 09 AM" src="https://github.com/GiIrendra/Jarvis_The_Voice_Assistant/assets/96494472/98d53080-20dc-4538-b6cd-edf7c0f05032">
 <img width="190" alt="Screenshot 2023-09-18 at 12 42 09 AM" src="https://github.com/GiIrendra/Jarvis_The_Voice_Assistant/assets/96494472/0b72f04b-a9c6-4af7-94d7-37c530f01120">
 <img width="190" alt="Screenshot 2023-09-18 at 12 42 09 AM" src="https://github.com/GiIrendra/Jarvis_The_Voice_Assistant/assets/96494472/bda47e92-557a-4a2c-a7a2-69b1fa375364">
+
+</br>
 <img width="190" alt="Screenshot 2023-09-18 at 12 42 09 AM" src="https://github.com/GiIrendra/Jarvis_The_Voice_Assistant/assets/96494472/ce2b9c52-4a6b-48a1-8d2c-6d3d07e5ca70">
 <img width="190" alt="Screenshot 2023-09-18 at 12 42 09 AM" src="https://github.com/GiIrendra/Jarvis_The_Voice_Assistant/assets/96494472/fbc150b2-2c4e-44c3-a8eb-baf4d7525af0">
 
