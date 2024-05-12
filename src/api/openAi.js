@@ -8,7 +8,7 @@ const client = axios.create({
         'Content-Type': 'application/json'
     }
 })
-// const msg11 = `Does this message want to generate an picture, image, art or anything similar ${prompt}. Simply answer with yes or no.`;
+
 const geminiEndpoint = `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent`;
 const dalleEndpoint = 'https://api.openai.com/v1/images/generations';
 
