@@ -1,5 +1,5 @@
-export const apiKey = 'AIzaSyC6RzInJmxydAzvI3gl1S4U97xg8RIw-S4';
-export const apiKey1 = 'sk-proj-itpBdr9NFONPGjJJ3DdLT3BlbkFJRwL38WBxruiQ3LRxwICh';
+export const apiKey = 'geminikey';
+export const apiKey1 = 'chatgptkey';
 
 export const dummyMessages = [
   {

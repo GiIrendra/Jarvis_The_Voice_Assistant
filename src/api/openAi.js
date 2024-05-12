@@ -94,3 +94,32 @@ const dalleApiCall = async (prompt, messages) => {
 
 
 
+// import axios from 'axios';
+// import { apiKey } from '../constants';
+
+// const client = axios.create({
+//     headers:{
+//         'Authorization': 'Bearer ' + apiKey,
+//         'Content-Type': 'application/json'
+//     }
+// })
+
+// const chatGptEndpoint = 'https://api.openai.com/v1/chat/completions';
+// const dalleEndpoint = 'https://api.openai.com/v1/images/generations';
+
+//  export const apiCall = async(prompt, messages)=>{
+//     try {
+//         const res = await client.post(chatGptEndpoint,{
+//             model: "gpt-3.5-turbo",
+//             messages: [{
+//                 role:'user',
+//                 content: `Does this message want to generate an AI picture, image, art or anything similar ${prompt}. Simply answer with yes or no.`
+//             }]
+//         });
+//         console.log('data ', res.data);
+        
+//     } catch (error) {
+//         console.log('error', error);
+//         return { success: false, msg: error.message }; // Return error message directly
+//     }
+// }
