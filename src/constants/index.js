@@ -1,3 +1,5 @@
+export const apiKey = 'gemini key';
+export const apiKey1 = 'gpt key';
 
 export const dummyMessages = [
   {
