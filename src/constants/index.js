@@ -1,5 +1,3 @@
-export const apiKey = 'geminikey';
-export const apiKey1 = 'chatgptkey';
 
 export const dummyMessages = [
   {
