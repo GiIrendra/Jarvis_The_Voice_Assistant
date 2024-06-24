@@ -1,3 +1,4 @@
+# Jarvis The Voice Assistant
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 # Overview
 ##### Introducing Jarvis, your very own voice assistant right in your pocket! Built using React Native for Android, Jarvis utilizes the power of Gemini AI API to deliver a seamless and intuitive experience. From answering questions to providing assistance, Jarvis is your go-to companion for all your needs. Download the app now and step into the future of AI-driven personal assistants!
